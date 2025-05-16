@@ -34,7 +34,7 @@ All models are implemented in **PyTorch**, using **OpenCV YuNet** for face detec
 
 ---
 
-📊 Model Sources
+## 📊 Model Sources
 - Age/Gender: Custom CNN trained on UTKFace
 
 - Emotion: FER2013 & RAF-DB
