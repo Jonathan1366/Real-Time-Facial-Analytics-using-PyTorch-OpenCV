@@ -46,7 +46,7 @@ All models are implemented in **PyTorch**, using **OpenCV YuNet** for face detec
 ---
 
 🧑‍🎓 Author
-Created by Jonathan Farrel Emanuel
-Student Project (UAS) — Bunda Mulia University
-Contact: jonathanfarelemanuel@gmail.com
+- Created by Jonathan Farrel Emanuel
+- Student Project (UAS) — Bunda Mulia University
+- Contact: jonathanfarelemanuel@gmail.com
 
