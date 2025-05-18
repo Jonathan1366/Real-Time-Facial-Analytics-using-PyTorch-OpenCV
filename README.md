@@ -1,5 +1,8 @@
 # Real-Time Facial Analytics with PyTorch and OpenCV
 
+Download File
+https://drive.google.com/file/d/1sorQeuQWpzHl9T6iZjECM-2E0pnXXEIv/view
+
 This project demonstrates a real-time facial analytics system using webcam or mobile camera (via DroidCam). It detects faces and analyzes:
 - **Age**
 - **Gender**
@@ -9,6 +12,7 @@ This project demonstrates a real-time facial analytics system using webcam or mo
 - **Eyeglasses Detection**
 
 All models are implemented in **PyTorch**, using **OpenCV YuNet** for face detection, and fine-tuned CNNs for classification.
+
 
 ---
 
@@ -48,5 +52,5 @@ All models are implemented in **PyTorch**, using **OpenCV YuNet** for face detec
 ## 🧑‍🎓 Author
 - Created by Jonathan Farrel Emanuel
 - Student Project (UAS) — Bunda Mulia University
-- Contact: jonathanfarelemanuel@gmail.com
+- Contact: jonathanfarelemanuel@gmail
 
