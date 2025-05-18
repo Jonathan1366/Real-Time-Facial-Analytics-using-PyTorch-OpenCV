@@ -1,7 +1,7 @@
 # Real-Time Facial Analytics with PyTorch and OpenCV
 
 Download File
-https://drive.google.com/file/d/1sorQeuQWpzHl9T6iZjECM-2E0pnXXEIv/view
+https://drive.google.com/file/d/1sorQeuQWpzHl9T6iZjECM-2E0pnXXEIv/view?usp=sharing
 
 This project demonstrates a real-time facial analytics system using webcam or mobile camera (via DroidCam). It detects faces and analyzes:
 - **Age**
